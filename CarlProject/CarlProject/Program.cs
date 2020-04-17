@@ -6,8 +6,13 @@ namespace CarlProject
     {
         static void Main(string[] args)
         {
-            
-            Console.WriteLine("hola!");
+
+            string entrada;
+            int A;
+
+            Console.WriteLine("pon el valor de  A");
+            entrada = Console.ReadLine();
+
         }
     }
 }
